@@ -43,33 +43,3 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
-
-# Local configuration files
-local.properties
-*.local
-
-# Web build output
-/web/build/
-
-# Desktop build outputs
-/windows/build/
-/linux/build/
-/macos/build/
-
-# iOS build outputs
-/ios/build/
-/ios/Pods/
-/ios/.symlinks/
-/ios/Flutter/Flutter.framework
-/ios/Flutter/Flutter.podspec
-/ios/ServiceDefinitions.json
-/ios/Runner/GeneratedPluginRegistrant.*
-
-# macOS build outputs
-/macos/Flutter/Flutter.framework
-/macos/Flutter/Flutter.podspec
-/macos/Flutter/GeneratedPluginRegistrant.swift
-
-# Exceptions to above rules
-!/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
-!/dev/ci/**/Gemfile.lock
