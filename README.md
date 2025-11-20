@@ -35,7 +35,7 @@ View your correct/incorrect answers and overall score when the quiz is completed
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/username/quiz_app.git
+   git clone https://github.com/abdllhdlc/quiz_app.git
    cd quiz_app
    ```
 
@@ -56,11 +56,6 @@ View your correct/incorrect answers and overall score when the quiz is completed
 **Build APK:**
 ```bash
 flutter build apk --release
-```
-
-**Build App Bundle (for Google Play Store):**
-```bash
-flutter build appbundle --release
 ```
 
 ### iOS
@@ -121,10 +116,6 @@ Contributions are welcome! Please follow these steps:
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
-## 📄 License
-
-This project is open source and licensed under the MIT License.
 
 ## 👨‍💻 Developer
 
