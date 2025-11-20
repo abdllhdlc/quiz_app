@@ -12,8 +12,6 @@ An interactive mobile quiz application to test your knowledge about Flutter. Mak
 - 🔄 **Restart Feature**: Ability to retake the quiz
 - 🎲 **Shuffled Answers**: Answers are randomly ordered in each quiz
 
-## 📸 Screenshots
-
 ### Start Screen
 Welcome screen that appears when you open the app.
 
